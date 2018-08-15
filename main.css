@@ -50,11 +50,20 @@ body{
   }
 .description{
    
-    margin:  40px;
+    margin:20px;
 width: 130px;
+}
+.description span{
+    display: block;
+
 }
 span:last-child{
     color:  #A8B1B9;
+    margin-top: 5px;
+}
+span:first-child{
+    
+    margin-bottom: 5px;
 }
 .quantity{
     margin: auto;
