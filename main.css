@@ -11,18 +11,63 @@ body{
     border-radius: 6px;
     background-color: #fff;
   }
+  .heading{
+    border-bottom: 1px solid #E1E8EE;
+
+  }
   .title{
       padding: 20px;
       color: #5F6977;
   }
 .item-row{
     display: flex;
-   
+    border-bottom: 1px solid #E1E8EE;
     padding: 15px 0px;
   }
-
-.delete-btn{
+  .delete-btn{
+    margin: auto;
+  }
+ .btn{
     background: none;
     border: none;
+  
+}
+.plus{
+    background: none;
+    border: none;
+  
+}
+.minus{
+    background: none;
+    border: none;
+  
+}
+.like-btn{
     margin: auto;
 }
+.product{
+    margin: auto;
+  }
+.description{
+   
+    margin:  40px;
+width: 130px;
+}
+span:last-child{
+    color:  #A8B1B9;
+}
+.quantity{
+    margin: auto;
+  }
+  .quantity-prod{
+      width:30px;
+      border: 0;
+      text-align: center;
+  }
+.minus img{
+      padding: 3px;
+  }
+  .total-price{
+    margin: auto;
+  }
+
