@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500');
 
 body{
-  background-color: #7EC855;
+  background-color: #7ec855;
   font-family: 'Roboto', sans-serif;
 }
 
 .box{
-    width: 875px;
+    width: 870px;
     margin: 100px auto;
     border-radius: 6px;
     background-color: #fff;
@@ -16,8 +16,8 @@ body{
 
   }
   .title{
-      padding: 20px;
-      color: #5F6977;
+      padding: 30px;
+      color: #5e6977;
   }
 .item-row{
     display: flex;
